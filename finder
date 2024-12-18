@@ -7,7 +7,7 @@ Fruits = {
 "Chop Fruit",
 "Quake Fruit",
 "Phoenix Fruit",
-"Paw Fruit",
+"Pain Fruit",
 "Love Fruit",
 "Portal Fruit",
 "Spider Fruit",
@@ -15,13 +15,15 @@ Fruits = {
 "Rumble Fruit",
 "Gravity Fruit",
 "Buddha Fruit",
+"Gas Fruit",
 "Dough Fruit",
 "Control Fruit",
 "Venom Fruit",
 "Shadow Fruit",
-"Dragon Fruit" ,
 "Spirit Fruit",
-"Leopard Fruit"
+"Leopard Fruit",
+"Kitsune Fruit",
+"Dragon Fruit"
 }
 
 Valuable = {"Gravity Fruit","Blizzard Fruit","Rumble Fruit","Buddha Fruit","Dough Fruit","Shadow Fruit","Venom Fruit","Control Fruit","Dragon Fruit","Spirit Fruit","Leopard Fruit"} ------ it will stop the script if you got this fruit
